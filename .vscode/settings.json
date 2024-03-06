@@ -1,0 +1,27 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 19,
+  "files.autoSave": "onFocusChange",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "vscode-icons",
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "redhat.telemetry.enabled": true,
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path-windows": "C:\\Users\\cveigam\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    "vscode-kubernetes.minikube-path-windows": "C:\\Users\\cveigam\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+  },
+  "window.zoomLevel": 1,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+}
