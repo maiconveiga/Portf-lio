@@ -1,9 +1,9 @@
-import Titulo from '../../components/titulo'
+import Titulo from '../../components/Titulo'
 
 const Sidebar = () => (
   <aside>
     <img src="https://github.com/maiconveiga.png" />
-    <Titulo>Maicon Veiga</Titulo>
+    <Titulo fontSize={20}>Maicon Veiga</Titulo>
   </aside>
 )
 
