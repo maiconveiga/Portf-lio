@@ -6,7 +6,7 @@ const Sobre = () => (
   <>
     <section>
       <Titulo fontSize={16}>Sobre mim</Titulo>
-      <Paragrafo tipo="secundario">
+      <Paragrafo tipo="principal">
         Oi, pessoal! Aqui é o Maicon Veiga, só mais um amante da computação
         tentando fazer o meu caminho. Sou formado em ciência da computação, fiz
         uma pós em gestão de projetos e estou no finzinho de outra em engenharia
